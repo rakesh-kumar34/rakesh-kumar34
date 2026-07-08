@@ -13,4 +13,4 @@ and adaptive question difficulty, and your **Mindspar Score** is normalized
 within your age group.
 
 **[▶ Play it in your browser](https://rakesh-kumar34.github.io/mindspar/)** ·
-SwiftUI iOS app + zero-build web client · 1,200 original questions
+SwiftUI iOS app + zero-build web client · 1,500 original questions
